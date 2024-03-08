@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  background-color: #1C1C1C; 
+}
+
+.generator-card{
+  width: 550px;
+  height: 550px;
+  margin: auto;
+  background-color: #2F3E53;
+}
+
+.main-card {
+  margin-left: 30px;
+  padding-top: 50px;
+}
+
+h1 {
+  margin-bottom: 0;
+  font-size: 40px;
+  color: white;
+}
+
+#second-line {
+  color: #4ADF86;
+}
+
+p {
+  font-size: 20px;
+  color: #D5D4D8;
+}
+
+button {
+  padding: 10px 15px;
+  color: white;
+  background-color: #10B981;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+
+}
+
+.password-card {
+  margin: 10px 30px;
+  border-top: 1px gray solid;
+  display: flex;
+  justify-content: space-between;
+}
+
+.password-input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 40px;
+  background-color: #273549;
+  color: #55F991;
+}
